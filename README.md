@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a new software development student. I'll be joining the Digital Commerce Team at Dow for OJT at the conclusion of my Tech Elevator training.
+Fun Fact: my fiancee and I have four dogs!
 
 <!--
 **shermanjill/Shermanjill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
